@@ -1,5 +1,10 @@
 # MindCub3r Guide
 
+## Tænd/Sluk
+**For at tænde**: Hold midterknappen nede i cirka 2 sekunder.  
+**For at slukke**: Gå tilbage til første menu og klik på knappen i top venstre hjørne, lige under skærmen. Derefter bekræft du ville slukke.  
+**Du kan også navigere tilbage ved at bruge samme knap**
+
 ## Start MindCub3r
 Naviger til "Brick Apps" skærmen og start "MC3 Solver v2p2"  
 ![MindCub3r Brick Apps](https://mindcuber.com/mindcub3r/application1.png)  
